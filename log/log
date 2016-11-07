@@ -1,0 +1,6 @@
+2016-11-07 13:48:35,585 [INFO] [request] POST https://dev.xiaomadada.com/paa/rest/api/token/get HTTP/1.1
+2016-11-07 13:48:36,082 [INFO] [Response] {"rc":0,"token":"zv7a7j44ql4m","expires":1481089710,"id":6}
+2016-11-07 13:48:36,087 [INFO] [request] POST https://dev.xiaomadada.com/paa/rest/api/vcode/get HTTP/1.1
+2016-11-07 13:48:36,189 [INFO] [Response] {"rc":0,"id":6}
+2016-11-07 13:48:36,196 [INFO] [request] POST https://dev.xiaomadada.com/paa/rest/api/auth/by-vcode HTTP/1.1
+2016-11-07 13:48:36,303 [INFO] [Response] {"rc":0,"id":1}
